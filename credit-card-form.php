@@ -1,3 +1,10 @@
+/**
+ *
+ * @author     İsmet Özdemir <ismetozdemir813@gmail.com>
+ * @category   Virtual post template.
+ *
+ */
+
 <!DOCTYPE html>
 <html lang="en">
 
